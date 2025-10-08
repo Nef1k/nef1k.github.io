@@ -2,9 +2,11 @@
 
 For those who stuck at goind through puzzles
 
-## Door opening
-1. You need to collect the key. 
-2. You need enable time (by solving puzzle with sand clock (push balls inside figure on the floor or use TROP cheat code from known issues section).
+<details> 
+  <summary>## Door opening </summary>
+  1. You need to collect the key. 
+  2. You need enable time (by solving puzzle with sand clock (push balls inside figure on the floor or use TROP cheat code from known issues section).
+</details>
 
 ## River crossing
 1. You need to collect Pause button.
