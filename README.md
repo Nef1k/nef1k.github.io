@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 # The World of My Own
 
 For those who stuck at goind through puzzles
